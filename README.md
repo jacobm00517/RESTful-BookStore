@@ -95,10 +95,7 @@ cd Restful-Book-Store
 mvn clean package
 ```
 
-### Run the application:
-```sh
-java -jar target/server-1.0-RELEASE.jar
-```
+### Deploy the project to a servlet container (e.g., Tomcat).
 
 ### Use `curl` or a REST client to interact with the API:
 ```sh
